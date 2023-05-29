@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite PUBLIC "//UNKNOWN/" "unknown.dtd">
+
+<suite name="HRM Test Suite">
+
+
+	<test name="EmployeesLeaveOnToday">
+		<classes>
+			<class name="testCases.verifyEmployeesLeaveToday">
+			</class>
+
+
+		</classes>
+	</test>
+
+	<test name="Check User Role Test Case">
+		<classes>
+			<class name="testCases.TestUserRole">
+			</class>
+
+
+		</classes>
+	</test>
+
+
+
+
+
+
+</suite>
